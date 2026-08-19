@@ -1,0 +1,2 @@
+Git is useful for version control.
+GitHub helps us collaborate and store repositories online.
